@@ -6,4 +6,5 @@ first of all we import tkinter . tkinter is a python binding to the TK GUI toolk
 
 
 Program Runtime :
+
 ![Capture](https://github.com/ParisaRoozgarian/ImageViewer/assets/107187797/6594048e-3c2f-496d-bec1-4bd2d108283b)
